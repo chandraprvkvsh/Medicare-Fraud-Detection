@@ -1,5 +1,7 @@
 # FraudDetection
 
+Medicare fraud poses a significant challenge, driving up healthcare costs and impacting insurance premiums. This project aims to tackle this issue by leveraging predictive analytics to identify potentially fraudulent providers based on claims data. By analyzing patterns in claims submissions and beneficiary details, the project seeks to uncover key variables indicative of fraudulent behavior. Through rigorous analysis of inpatient and outpatient claims, along with beneficiary information, the goal is to develop insights that can help detect and prevent fraudulent activities, ultimately safeguarding the integrity of the healthcare system.
+
 The dataset consists of 8 .csv files out of which 4 correspond to the training dataset and 4 correspond to the test dataset:
 
 | Dataset            | Description                                           |
