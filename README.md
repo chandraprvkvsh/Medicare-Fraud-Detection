@@ -13,7 +13,7 @@ The dataset consists of 8 .csv files out of which 4 correspond to the training d
 
 The not-common columns between Train_Inpatient and Train_Outpatient are:
 
-- AdmissionDt (Train_Inpatient only)
+- AdmissionDt (Train_Inpatient only) 
 - DischargeDt (Train_Inpatient only)
 - DiagnosisGroupCode (Train_Inpatient only)
 
